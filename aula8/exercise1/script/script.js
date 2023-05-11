@@ -1,6 +1,6 @@
 // Exercícios - Const e Let
 
-/* José Rodrigues dos Santos Neto tem 30 anos, pesa 100 kg tem 1,84 de altura e seu IMC é de ... José Rodrigeus dos Santos Neto, nasceu em ...*/
+//José Rodrigues dos Santos Neto tem 30 anos, pesa 100 kg tem 1,84 de altura e seu IMC é de ... José Rodrigeus dos Santos Neto, nasceu em ...//
 
 const nome = 'José';
 const sobrenome = 'Rodrigues dos Santos Neto';
